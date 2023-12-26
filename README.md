@@ -1,3 +1,13 @@
+# VIP Notes:
+New files added/changed for VIP:
+- demo_VIP.py (adds two functions to run Detic)
+
+Details on how to edit with paths:
+- Specify <a href="https://github.com/dannyrose30/GRiT_VIP/blob/0149e422d834d4a7d699182e30b3a13fbdfa12c6/demo_VIP.py#L13">path</a> to CenterNet2 (GRiT's own instructions in ReadMe)
+- Specify path to GRiT config <a href="https://github.com/dannyrose30/GRiT_VIP/blob/0149e422d834d4a7d699182e30b3a13fbdfa12c6/demo_VIP.py#L95">here</a> and <a href="https://github.com/dannyrose30/GRiT_VIP/blob/0149e422d834d4a7d699182e30b3a13fbdfa12c6/demo_VIP.py#L95">here</a>
+- Spceify <a href="https://github.com/dannyrose30/GRiT_VIP/blob/0149e422d834d4a7d699182e30b3a13fbdfa12c6/demo_VIP.py#L164">path</a> to images folder in which to run GRiT
+
+
 # GRiT: A Generative Region-to-text Transformer for Object Understanding
 GRiT is a general and open-set object understanding framework that localizes objects and
 describes them with any style of free-form texts it was trained with, e.g., class names, descriptive sentences 
